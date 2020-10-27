@@ -1,3 +1,8 @@
+A app which you can plug in expenses and income built using react using hooks (useState, useContext, useReducer) and the context API.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
